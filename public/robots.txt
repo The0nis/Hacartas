@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hacartas.com/sitemap.xml
+Sitemap: https://hacartas.vercel.app/sitemap.xml
